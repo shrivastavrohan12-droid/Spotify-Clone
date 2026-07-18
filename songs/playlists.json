@@ -1,0 +1,64 @@
+[
+  {
+    "type": "folder",
+    "folder": "playlist1"
+  },
+  {
+    "type": "folder",
+    "folder": "playlist2"
+  },
+  {
+    "type": "file",
+    "cover": "cover (3).jpg",
+    "title": "Daily Mix",
+    "description": "Updated Daily"
+  },
+  {
+    "type": "file",
+    "cover": "cover (4).jpg",
+    "title": "Punjabi Hits",
+    "description": "Trending Collection"
+  },
+  {
+    "type": "file",
+    "cover": "cover (5).jpg",
+    "title": "Party Mix",
+    "description": "Best of 2026"
+  },
+  {
+    "type": "file",
+    "cover": "cover (6).jpg",
+    "title": "Love Songs",
+    "description": "Romantic Collection"
+  },
+  {
+    "type": "file",
+    "cover": "cover (7).jpg",
+    "title": "Evening Chill",
+    "description": "Relax and Unwind"
+  },
+  {
+    "type": "file",
+    "cover": "cover (8).jpg",
+    "title": "Happy Hits",
+    "description": "Feel Good Music"
+  },
+  {
+    "type": "file",
+    "cover": "cover (9).jpg",
+    "title": "Trending Now",
+    "description": "Top Hits"
+  },
+  {
+    "type": "file",
+    "cover": "cover (10).jpg",
+    "title": "Lo-Fi Sleep",
+    "description": "Editor's Picks"
+  },
+  {
+    "type": "file",
+    "cover": "cover.jpg",
+    "title": "Workout Mix",
+    "description": "Push your limits"
+  }
+]
